@@ -382,3 +382,61 @@ C:\Users\milos\Documents\GitHub\NEA\WinForms Prot6\WinForms Prot1\obj\Debug\netc
 C:\Users\milos\Documents\GitHub\NEA\WinForms Prot6\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.AdminPanel.resources
 C:\Users\milos\Documents\GitHub\NEA\WinForms Prot6\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.ReviewsPage.resources
 C:\Users\milos\Documents\GitHub\NEA\WinForms Prot6\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.PostReview.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.exe
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.deps.json
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.runtimeconfig.json
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.runtimeconfig.dev.json
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\WinForms Prot1.pdb
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.csproj.AssemblyReference.cache
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.AdminPanel.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Basket.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.CategoryPage.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Checkout.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.FinalCheckout.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Home.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.GameCash.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Login.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.PastPurchases.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Popup1.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.PostReview.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.ProductPage.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Profile.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.Properties.Resources.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.ReviewsPage.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.SearchResultsPage.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.SignUp.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.StartForm.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms_Prot1.TAC.resources
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.csproj.GenerateResource.cache
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.AssemblyInfoInputs.cache
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.AssemblyInfo.cs
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.csproj.CoreCompileInputs.cache
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.sourcelink.json
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms.8C4198AB.Up2Date
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.dll
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.pdb
+C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\obj\Debug\netcoreapp3.1\WinForms Prot1.genruntimeconfig.cache

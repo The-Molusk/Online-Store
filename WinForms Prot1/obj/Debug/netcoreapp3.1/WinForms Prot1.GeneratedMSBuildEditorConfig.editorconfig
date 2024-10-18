@@ -6,4 +6,6 @@ build_property.ApplicationHighDpiMode =
 build_property.ApplicationUseCompatibleTextRendering = 
 build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = WinForms_Prot1
-build_property.ProjectDir = C:\Users\milos\Documents\GitHub\NEA\WinForms Prot6\WinForms Prot1\
+build_property.ProjectDir = C:\Users\Molusk\Documents\GitHub\Online-Store\WinForms Prot1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
